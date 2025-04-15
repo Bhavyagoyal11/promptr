@@ -92,13 +92,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Contact 📧
-
-- Email: contact@promptr.com
-- Website: [promptr.com](https://promptr.com)
-- Twitter: [@promptr](https://twitter.com/promptr)
-
-## Acknowledgments 🙏
-
-- UI Components inspired by [Uiverse.io](https://uiverse.io)
-- Icons by [Font Awesome](https://fontawesome.com)
-- 3D Viewer by [Spline](https://spline.design) 
+- Twitter: @bytebyybyte
